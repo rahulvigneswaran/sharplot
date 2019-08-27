@@ -2,11 +2,7 @@
 
 
 # Lottery ticket hypothesis
----
 
-Step 1: Get already pruned weights from LTH (See if you can get in pkl format). Final stage !!
-Step 2: Check for compatibility (Make it compatible)
-Step 3: Verify the flatness of the lottery ticket
 
 
 ```
